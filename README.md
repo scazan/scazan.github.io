@@ -1,5 +1,3 @@
 ## Scott Cazan: Art & Code
-
-Performance-obsessed full-stack JavaScript,sound and media artist, embedded device development, linux user, educator, and open-source advocate.
-
-scottcazan@gmail.com
+Main portfolio page for my development work.
+This is the static build. Please reference scazan.github.io-dev for the source code.
